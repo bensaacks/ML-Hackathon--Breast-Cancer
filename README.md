@@ -11,4 +11,4 @@ We submitted the following files:
 - evaluate_part_0.py: File that we got.
 - evaluate_part_1.py: File that we got.
 - preprocess.py: The manipulation code we used on the data.
-- In addition, we added all the csv files we did our train and test.
+
